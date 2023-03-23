@@ -110,3 +110,54 @@ h3{
     font-weight: bolder;
     margin-left: 500px;
 }
+.sectionfour{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.secondblue{
+    background-color: #3882f6;
+    width: 75%;
+    height: 45%;
+    display: flex;
+    flex-direction: row;
+}
+.leftmsg{
+    width: 80%;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h4{
+    font-size: 25px;
+    color: #f9faf8;
+}
+.lastp{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.rightmsg{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.signuptwo{
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px ;
+    border: 2px solid white;
+    margin-right: 100px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    height: 100px;
+    font-size: larger;
+}
