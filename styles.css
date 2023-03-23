@@ -22,6 +22,13 @@ ul{
     display: flex;
     flex-direction: row;
 }
+.rightnavbar{
+    margin-top: -100px;
+}
+#cutepic{
+    margin-bottom: 30px;
+    margin-top: -40px;
+}
 .leftnavbar,.rightnavbar{
     display: flex;
     width: 50%;
@@ -51,9 +58,11 @@ ul{
     width: 50%;
     justify-content: center;
     margin-left: 180px;
+    margin-top: -100px;
 }
+
 img{
-    margin: 40px;
+    margin-top: -30px;
 }
 .signupone{
     background-color: #3882f6;
