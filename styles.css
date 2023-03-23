@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.sectionone{
+    background-color: #1f2937;
+}
+#headerlogo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+/* .sectionone {
+    background-color: #1f2937;
+}
+.leftnavbar {
+    font-size: 24px;
+    color: #f9faf8;
+}
+.headerlink {
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.leftnavbar,.rightnavbar{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+} */
